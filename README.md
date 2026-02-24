@@ -1,1 +1,8 @@
 # data-analysis-portfolio
+
+## 📊Dashboard
+
+### 1️⃣ Superstore Business Performance Dashboard (2014–2017)
+This project analyzes sales growth and profitability trends using the Superstore dataset. 
+The goal is to understand revenue drivers and investigate the decline in profit despite increasing sales.<br>
+🔗Tableau [https://public.tableau.com/views/Superstore_17718369305430/Sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Superstore_17718369305430/Sales)
