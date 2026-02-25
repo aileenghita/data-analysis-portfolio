@@ -1,4 +1,4 @@
-# data-analysis-portfolio
+# Data Analysis Portfolio
 
 ## 📊Business Intelligence & Dashboarding
 ### 1️⃣ Superstore Business Performance Dashboard (2014–2017)
