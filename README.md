@@ -20,7 +20,7 @@ This project simulates a relational database system for an online bookstore. The
 💾 SQL Scripts: <a href="https://github.com/aileenghita/data-analysis-portfolio/tree/main/ebookstore-sql" target="_blank">[Link Here]
 
 ## 🤖 Predictive Modeling & Machine Learning
-### 1️⃣ USD/IDR Volatility Prediction using GARCH-LSTM
+### 1️⃣ USD/IDR Forecasting & Trading Strategy using Hybrid GARCH-LSTM Model
 This project combines time-series analysis and deep learning to forecast USD/IDR exchange rate movements, leveraging both historical price patterns and volatility estimated by GARCH(1,1) to generate accurate predictions. For further evaluation, backtesting with trading simulations were conducted to see whether the hybrid model improved risk-adjusted returns compared to a Buy & Hold strategy.
 
 🐍 Project: <a href="https://github.com/aileenghita/data-analysis-portfolio/tree/main/GARCH-LSTM%20for%20USD-IDR%20Forecasting" target="_blank">[Link Here]
